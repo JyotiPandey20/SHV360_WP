@@ -1,0 +1,22 @@
+.control-section-erapress h3 {
+	margin: 0;
+	padding: 1px 0;
+	border: 0;
+	position: relative;
+}
+.control-section-erapress h3 a {
+	background: linear-gradient(-137deg, #FF9300 10%, #FF0056 100%);
+    display: block;
+    padding: 11px 10px 12px 14px;
+    text-decoration: none;
+    color: #fff;
+}
+.control-section-erapress h3.wp-ui-highlight {
+	background: linear-gradient(-137deg, #FF9300 10%, #FF0056 100%);
+}
+li#accordion-section-erapress h3 {
+    margin: 0;
+    padding: 1px 0;
+    border: 0;
+    position: relative;
+}

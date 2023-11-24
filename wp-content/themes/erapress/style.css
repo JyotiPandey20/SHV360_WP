@@ -1,0 +1,24 @@
+/*
+Theme Name: EraPress
+Theme URI: https://xolotheme.com/free/erapress/
+Author: Xolo Software
+Author URI: https://xolotheme.com/
+Description: EraPress Elementor WordPress Theme. It's fully compatible with Elementor. Simply drag and drop all sections elements and make your business website. It can be used for all types of business websites. EraPress Pro provides you with lots of elements of Elementor. View Pro Demo: - https://xolotheme.com/pro/erapress
+Version: 1.5
+Requires at least: 4.4
+Tested up to: 6.3
+Requires PHP: 5.6
+License: GPLv3 or later
+License URI: https://www.gnu.org/licenses/gpl-3.0.html
+Text Domain: erapress
+Slug: erapress
+Tags: one-column, two-columns, left-sidebar, right-sidebar, flexible-header, custom-background, custom-colors, custom-header, custom-menu, featured-image-header, featured-images, footer-widgets, full-width-template, theme-options, threaded-comments, translation-ready, blog, grid-layout, portfolio, photography
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+
+*/
+
+.bypostauthor {
+    color: #000000;
+}
